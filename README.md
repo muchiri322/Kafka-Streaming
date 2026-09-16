@@ -1,12 +1,12 @@
 # Weather Data Streaming with Kafka
 
-A real-time weather data streaming application that fetches weather information for Nairobi and London, then streams it using Apache Kafka for real-time processing and consumption.
+A real time weather data streaming application that fetches weather information for Nairobi and London, then streams it using Apache Kafka for real time processing and consumption.
 
 ## Overview
-This project demonstrates a real-time data pipeline for collecting, processing, and displaying weather data.
+This project demonstrates a real time data pipeline for collecting, processing, and displaying weather data.
 It consists of two main components:
 - **Producer** (`weather_prod.py`): Fetches weather data from OpenWeatherMap API and publishes to Kafka
-- **Consumer** (`weather_con.py`): Consumes weather data from Kafka and displays it in real-time
+- **Consumer** (`weather_con.py`): Consumes weather data from Kafka and displays it in realtime
 
 ## Architecture
 
@@ -190,4 +190,4 @@ return {
 
 This project is provided for educational  purposes.
 ##conclusion
-This project demonstrates how to build a real-time data pipeline using modern big data tools. With minimal setup, you can monitor weather data in real time and lay the foundation for more complex data engineering workflows.
+This project demonstrates how to build a real time data pipeline using modern big data tools. With minimal setup, you can monitor weather data in real time and lay the foundation for more complex data engineering workflows.
