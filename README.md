@@ -186,8 +186,7 @@ return {
 - Implement proper authentication and authorization for Kafka clusters
 - Consider using Kafka Connect for production data ingestion
 
-## License
 
-This project is provided for educational  purposes.
-##conclusion
+
+## conclusion
 This project demonstrates how to build a real time data pipeline using modern big data tools. With minimal setup, you can monitor weather data in real time and lay the foundation for more complex data engineering workflows.
